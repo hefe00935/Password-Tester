@@ -19,10 +19,9 @@ This is intended for learning how brute-force enumeration behaves and to demonst
 
 * Enter up to **3** target passwords to search for.
 * Toggle which character groups to include: lowercase, UPPERCASE, digits, symbols.
-* Configure maximum password length (1..N).
+* Configure maximum password length (1..).
 * Global search strategy: enumerates each candidate once and checks against all remaining targets.
 * Live progress log and summary report when complete.
-* Start / Stop buttons and clean cancellation using a thread-safe event.
 
 ---
 
