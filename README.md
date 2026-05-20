@@ -1,8 +1,8 @@
-# 🔐 Brute-Force Password Tool
+# Brute-Force Password Tool
 
 **A small educational GUI tool (CustomTkinter) that demonstrates a global brute-force search across up to 3 target passwords.**
 
-> **Important:** This project is for *education, testing, and defensive/security research only.* Do **not** use it to access, damage, or attempt to compromise accounts, systems, or data you do not own or have explicit permission to test. Misuse may be illegal and unethical.
+> **Important:** This project is for *education, testing, and defensive/security research only.* Do **not** use it to access, damage, or attempt to compromise accounts, systems, or data you do not own or have explicit permission to test. Misuse may be illegal and unethical (probably you can't misuse this but still  I wanted to give a warning.).
 ---
 
 ## About
